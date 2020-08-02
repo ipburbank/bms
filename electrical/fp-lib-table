@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/Libraries/ATSAMC21E18A-AUT/footprints.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/Libraries/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name BK-18650-PC8)(type KiCad)(uri ${KIPRJMOD}/Libraries/BK-18650-PC8)(options "")(descr ""))
+  (lib (name WU744873220)(type KiCad)(uri ${KIPRJMOD}/Libraries/WU744873220/WU744873220.pretty)(options "")(descr ""))
+  (lib (name SN65HVD251DRG4)(type KiCad)(uri ${KIPRJMOD}/Libraries/SN65HVD251DRG4/SN65HVD251DRG4.pretty)(options "")(descr ""))
+)
